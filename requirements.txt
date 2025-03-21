@@ -1,0 +1,31 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+
+# Data Collection
+yfinance
+requests
+beautifulsoup4
+newsapi-python
+
+# Natural Language Processing (NLP)
+nltk
+vaderSentiment
+transformers  # For FinBERT (Optional)
+
+# Technical Indicators
+ta  # TA-Lib Alternative (Easier to install)
+backtesting  # Backtesting framework
+
+# Machine Learning
+xgboost
+lightgbm
+catboost  # Alternative boosting model
+
+# Miscellaneous
+jupyterlab  # For working with notebooks
+ipykernel  # To link Jupyter notebooks to venv
